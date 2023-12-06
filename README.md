@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+![kh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEKYOUNGHWA&show_icons=true&theme=radical)
 # 💪 Skills
 ## Languages
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
