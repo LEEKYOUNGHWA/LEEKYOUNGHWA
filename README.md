@@ -1,6 +1,6 @@
 # Hi there 👋
 ![kh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEKYOUNGHWA&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEKYOUNGHWA&langs_count=8)](https://github.com/LEEKYOUNGHWA/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEKYOUNGHWA&langs_count=8)](https://github.com/LEEKYOUNGHWA/github-readme-stats)
 # 💪 Skills
 ## Languages
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
