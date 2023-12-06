@@ -1,4 +1,13 @@
-# Hi there 👋
+# 👋 Hello, I'm LEEKYOUNGHWA!
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEEKYOUNGHWA&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+## 📊 GitHub Stats
+![LEEKYOUNGHWA's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEKYOUNGHWA&show_icons=true&theme=radical)
+
+## 💼 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEKYOUNGHWA&layout=compact&theme=radical)
+
 ![kh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEKYOUNGHWA&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEKYOUNGHWA&layout=compact)](https://github.com/LEEKYOUNGHWA/github-readme-stats)
 
